@@ -11,7 +11,7 @@ A sleek and fully responsive login form built using **HTML** and **CSS**. This p
 
 ## Preview
 
-![Login Form Screenshot](screenshot.jpg)
+![Login Form Screenshot](Screenshot.jpg)
 
 ## Installation
 
